@@ -1,1 +1,4 @@
-# c
+# include <stdio.h>
+int main(){
+printf("hii");
+}
